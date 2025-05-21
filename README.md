@@ -91,6 +91,10 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 <div align="center">
   <h3>💌 <code>shrehanofficial@gmail.com</code></h3>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=shrehanrajsingh&style=flat-square&color=3584E4&label=Profile+Views" alt="Profile Views Counter"/>
+  </p>
 </div>
 
 ![](https://hit.yhype.me/github/profile?account_id=67099026)

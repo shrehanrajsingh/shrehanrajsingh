@@ -31,14 +31,11 @@ const shrehan = {
 }
 ```
 
-<details>
-<summary>📈 GitHub Stats</summary>
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=shrehanrajsingh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrehanrajsingh&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shrehanrajsingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-</details>
 
 ## 💻 Tech Stack
 

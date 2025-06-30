@@ -35,6 +35,9 @@ const shrehan = {
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=shrehanrajsingh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrehanrajsingh&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shrehanrajsingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shrehanrajsingh&radius=16&theme=react&area=true&order=5" alt="GitHub Streak" />
 </div>
 
 ## 💻 Tech Stack

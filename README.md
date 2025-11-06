@@ -18,8 +18,8 @@
 
 <br/>
 
-## 🌟 About Me
-
+## 🌟 About Me(Click image to know about me)
+<!-- 
 ```javascript
 const shrehan = {
   education: "IIT Kharagpur",
@@ -29,7 +29,14 @@ const shrehan = {
   askMeAbout: ["Web Dev", "Tech", "Software Engineering", "Programming Languages"],
   funFact: "Coffee transforms my code from bugs to features!"
 }
-```
+``` -->
+
+<div align="center">
+  <a href="https://sourasish-mukherjee1904.github.io/shrehanaboutfinal/" target="_blank">
+    <img src="aboutme.png" width="100%" alt="3D Spline Model Preview">
+  </a>
+</div>
+
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=shrehanrajsingh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />

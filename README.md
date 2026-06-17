@@ -1,7 +1,7 @@
 Shrehan Raj Singh - Software Developer
 =====================================
 
-This file documents the professional profile of Shrehan Raj Singh, a software
+This file documents the professional profile of Shrehan Raj Singh, a 
 developer and student at IIT Kharagpur specializing in full-stack development
 and systems programming.
 
@@ -19,7 +19,7 @@ LinkedIn:     https://www.linkedin.com/in/shrehan-raj-singh/
 2. Professional Summary
 -----------------------
 
-I am a software engineer with expertise in developing robust applications
+I am a software engineer with expertise in developing applications
 using modern technologies. My work focuses on:
 
 - Full-stack web development
@@ -36,7 +36,7 @@ Current academic affiliation: Indian Institute of Technology Kharagpur
 
 3.1 Programming Languages
 -------------------------
-- C++ (Modern Standards)  
+- C++
 - Rust  
 - Go  
 - JavaScript/TypeScript  
@@ -88,7 +88,7 @@ Recent development activity can be viewed at:
 https://github.com/shrehanrajsingh
 
 Key metrics:
-- Primary languages: JavaScript, C++, Rust
+- Primary languages: JavaScript, C++
 - Active contributor to multiple repositories
 - Regular commits to personal and collaborative projects
 

@@ -108,7 +108,7 @@ For collaboration inquiries, please contact me via email at:
 shrehanofficial@gmail.com
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats-git-vercel-shrehans-projects.vercel.app/?user=shrehanrajsingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats-one-tawny.vercel.app/?user=shrehanrajsingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br />
   <img width="100%" src="https://github-readme-activity-graph-three-nu.vercel.app/graph?username=shrehanrajsingh&radius=16&theme=github-compact&area=true&order=5" alt="GitHub Streak" />

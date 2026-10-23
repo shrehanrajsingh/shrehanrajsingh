@@ -111,5 +111,5 @@ shrehanofficial@gmail.com
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shrehanrajsingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br />
-  <img width="100%" src="https://github-readme-activity-graph-7368g24g6-shrehans-projects.vercel.app/graph?username=shrehanrajsingh&radius=16&theme=github-compact&area=true&order=5" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-activity-graph-three-nu.vercel.app/graph?username=shrehanrajsingh&radius=16&theme=github-compact&area=true&order=5" alt="GitHub Streak" />
 </div>

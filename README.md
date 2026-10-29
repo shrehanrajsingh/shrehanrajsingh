@@ -12,7 +12,7 @@ and systems programming.
 
 Email:        shrehanofficial@gmail.com  
 GitHub:       https://github.com/shrehanrajsingh  
-LinkedIn:     https://www.linkedin.com/in/shrehan-raj-singh/
+LinkedIn:     https://www.linkedin.com/in/shrehanrajsingh/
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
